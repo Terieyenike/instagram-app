@@ -4,7 +4,9 @@
 
 We need to install node and npm for building this project
 [https://nodejs.org](https://nodejs.org)
+
 To confirm successfull installation
+
 Run this command in your CLI
 
 + node -v
