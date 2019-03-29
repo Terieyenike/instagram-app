@@ -25,8 +25,6 @@ Run this command in your CLI
 + ejs [https://ejs.co/](https://ejs.co/) to template the node app
 + instagram-node
 
-
-
-
-
-
+## Display Project Image
+![alt text](https://github.com/terieyenike/instagram-app/blob/master/img/Model1.png "Vision it, do it - Teri")
+![alt text](https://github.com/terieyenike/instagram-app/blob/master/img/Model1.1.png "Vision it, do it - Teri")
