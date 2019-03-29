@@ -8,7 +8,7 @@ app.use(express.static(__dirname + '/public'))
 
 // get access token here: http://instagram.pixelunion.net/
 ig.use({
-  access_token: '965338070.1677ed0.23d397febb1a49c1817c2a8e9b1baf7c'
+  access_token: 'INPUT YOUR GENERATED TOKEN ID HERE from http://instagram.pixelunion.net/'
 })
 
 app.set('view engine', 'ejs')
